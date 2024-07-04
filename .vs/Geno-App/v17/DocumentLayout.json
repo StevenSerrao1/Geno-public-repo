@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\courses\\coursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\courses\\coursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\courses\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\courses\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\courses\\course_1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\courses\\course_1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\courses\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\courses\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\wwwroot\\styles\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\wwwroot\\styles\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3737BB-B1DB-4ACF-BA0D-463E0C54C5C3}|Geno-App.Client\\Geno-App.Client.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F3737BB-B1DB-4ACF-BA0D-463E0C54C5C3}|Geno-App.Client\\Geno-App.Client.csproj|solutionrelative:geno-app.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|c:\\users\\steven\\desktop\\software development\\dev-projects\\.net projects\\blazor\\online-learning-platform\\geno-app\\geno-app\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E420066-016C-44BB-BC1A-989A3AB016D9}|Geno-App\\Geno-App.csproj|solutionrelative:geno-app\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course_1.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Courses\\Course_1.razor",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\Courses\\Course_1.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Courses\\Course_1.razor",
+              "RelativeToolTip": "Geno-App\\Components\\Courses\\Course_1.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T12:12:02.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Courses\\Component.razor",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\Courses\\Component.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Courses\\Component.razor",
+              "RelativeToolTip": "Geno-App\\Components\\Courses\\Component.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T05:27:09.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseData.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Courses\\CourseData.cs",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\Courses\\CourseData.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Courses\\CourseData.cs",
+              "RelativeToolTip": "Geno-App\\Components\\Courses\\CourseData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA0wDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:22:28.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICourse.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Courses\\ICourse.cs",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\Courses\\ICourse.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Courses\\ICourse.cs",
+              "RelativeToolTip": "Geno-App\\Components\\Courses\\ICourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:11:35.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\_Imports.razor",
+              "RelativeToolTip": "Geno-App\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T12:04:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\App.razor",
+              "RelativeToolTip": "Geno-App\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T05:16:41.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\wwwroot\\styles\\StyleSheet.css",
+              "RelativeDocumentMoniker": "Geno-App\\wwwroot\\styles\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\wwwroot\\styles\\StyleSheet.css",
+              "RelativeToolTip": "Geno-App\\wwwroot\\styles\\StyleSheet.css",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAowHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T14:44:34.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Geno-App\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T13:33:37.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Routes.razor",
+              "RelativeToolTip": "Geno-App\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T13:43:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Geno-App.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "Geno-App.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:26:24.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Geno-App\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAADgAAAAAAAAAAAAowEEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T13:33:02.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Geno-App\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Geno-App\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T13:32:56.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

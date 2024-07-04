@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App.Client\\obj\\Debug\\net8.0\\compressed\\wuzpf1ji2a.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\Steven\\Desktop\\Software Development\\Dev-Projects\\.NET Projects\\Blazor\\Online-Learning-Platform\\Geno-App\\Geno-App.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Geno-App.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Geno-App.Client.props",
+      "PackagePath": "build\\Geno-App.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Geno-App.Client.props",
+      "PackagePath": "buildMultiTargeting\\Geno-App.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Geno-App.Client.props",
+      "PackagePath": "buildTransitive\\Geno-App.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
