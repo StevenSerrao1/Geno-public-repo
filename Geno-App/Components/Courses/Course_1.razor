@@ -1,0 +1,38 @@
+﻿@using Geno_App.Components.Courses
+
+<div class="full-course">
+    <div class="course">
+        <h3>Course 1</h3>
+        <p>Learn the basics of programming with this introductory course.</p>
+    </div>
+    <div class="course">
+        <h3>Course 2</h3>
+        <p>Advance your skills with our intermediate programming course.</p>
+    </div>
+    <div class="course">
+        <h3>Course 3</h3>
+        <p>Master advanced programming techniques in this comprehensive course.</p>
+    </div>
+</div>
+
+@code {
+    public class Course : ICourse
+    {
+        public string name { get; set; }
+        public string description { get; set; }
+        public string courseId { get; set; }
+        public float courseVersion { get; set; }
+        public string instructorName { get; set; }
+        public string courseDifficulty { get; set; }
+
+        public Course(string CourseName, string CourseDescription, string CourseID, float CourseVersion, string InstructorName, string CourseDifficulty)
+        {
+            name = CourseName;
+            description = CourseDescription;
+            courseId = CourseID;
+            courseVersion = CourseVersion;
+            instructorName = InstructorName;
+            courseDifficulty = CourseDifficulty;
+        }
+    }
+}

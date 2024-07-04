@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geno-App", "Geno-App\Geno-App.csproj", "{1E420066-016C-44BB-BC1A-989A3AB016D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geno-App.Client", "Geno-App.Client\Geno-App.Client.csproj", "{0F3737BB-B1DB-4ACF-BA0D-463E0C54C5C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "..\Shared\Shared.csproj", "{4D913E23-BA67-4209-A697-A3ECC2038684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E420066-016C-44BB-BC1A-989A3AB016D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E420066-016C-44BB-BC1A-989A3AB016D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E420066-016C-44BB-BC1A-989A3AB016D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E420066-016C-44BB-BC1A-989A3AB016D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3737BB-B1DB-4ACF-BA0D-463E0C54C5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3737BB-B1DB-4ACF-BA0D-463E0C54C5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3737BB-B1DB-4ACF-BA0D-463E0C54C5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3737BB-B1DB-4ACF-BA0D-463E0C54C5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D913E23-BA67-4209-A697-A3ECC2038684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D913E23-BA67-4209-A697-A3ECC2038684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D913E23-BA67-4209-A697-A3ECC2038684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D913E23-BA67-4209-A697-A3ECC2038684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA17AD34-C87D-4DCE-95D3-70C6A390678A}
+	EndGlobalSection
+EndGlobal
